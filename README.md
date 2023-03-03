@@ -1,5 +1,5 @@
 # JacksonSorrells.com
 Personal Website Repo
 
-# Notes
+## Notes
 - Create ACM in Virginia branch to connect to cloudfront
