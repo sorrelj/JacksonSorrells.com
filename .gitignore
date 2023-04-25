@@ -2,3 +2,6 @@
 
 # Executable Files
 deployS3
+
+# Mac Generated Files
+**/.DS_Store
