@@ -41,5 +41,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Old Docs
-/oldDocs
+# Deployment Script
+/deploy-prod.sh
